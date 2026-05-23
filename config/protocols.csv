@@ -1,0 +1,6 @@
+name,slug,chain,category,launch_year,holder_concentration_score,audit_exploit_score
+Aave,aave,Ethereum,Lending,2020,18,14
+Uniswap,uniswap,Ethereum,DEX,2018,17,14
+Curve,curve-finance,Ethereum,DEX,2020,15,11
+Maker,makerdao,Ethereum,Stablecoin,2017,16,13
+Lido,lido,Ethereum,Liquid Staking,2020,14,13

@@ -1,0 +1,6 @@
+name,chain,category,tvl,tvl_30d_change,tvl_score,stability_score,age_score,holder_concentration_score,audit_exploit_score,total_score,risk_level
+Aave,Ethereum,Lending,14103877326.0,-1.49,25,17,20,18,14,94,Low
+Uniswap,Ethereum,DEX,3343066214.0,-1.28,18,17,20,17,14,86,Low
+Curve,Ethereum,DEX,1666109081.83,-1.31,18,17,20,15,11,81,Low
+Maker,Ethereum,Stablecoin,5738880554.0,14.35,22,20,20,16,13,91,Low
+Lido,Ethereum,Liquid Staking,18449757082.0,-14.92,25,13,20,14,13,85,Low
