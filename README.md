@@ -55,3 +55,61 @@ defi-protocol-risk-scorecard/
 │
 └── reports/
     └── risk_scorecard.md
+```
+
+## Stack
+
+- Python
+- Pandas
+- DeFiLlama API
+- Public DeFi Data
+
+## Features
+
+- Fetches DeFi protocol TVL data
+- Calculates risk scores automatically
+- Generates CSV outputs
+- Creates automated Markdown reports
+- Compares DeFi protocol risk levels
+
+## Example Output
+
+| Protocol | Score | Risk |
+|---|---:|---|
+| Aave | 94 | Low |
+| Maker | 91 | Low |
+| Uniswap | 86 | Low |
+| Lido | 85 | Low |
+| Curve | 81 | Low |
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Fetch DeFiLlama data:
+
+```bash
+python scripts/fetch_defillama.py
+```
+
+Calculate scores:
+
+```bash
+python scripts/calculate_score.py
+```
+
+Generate report:
+
+```bash
+python scripts/generate_report.py
+```
+
+## Disclaimer
+
+This project is for educational and research purposes only.
+
+It does not constitute financial advice.
